@@ -1,0 +1,18 @@
+/* Ensure the footer stays at the bottom */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
+
+footer {
+    background-color: #343a40; /* Dark background */
+    color: white; /* White text */
+    text-align: center;
+    padding: 1rem;
+}
