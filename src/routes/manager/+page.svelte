@@ -21,16 +21,6 @@
     </div>
 </nav>
 
-
-<div class="content container">
-    <div class="form-group p-2">
-        <label for="Search"><h2>Enter item to buy</h2></label>
-        <input type="text" class="form-control" id="Search" placeholder="Dark oak wood...">
-    </div>
-    
-    <ul id="results" class="list-group p-2"></ul>
-</div>
-
 <footer>
     <div class="container">
         <p class="mb-0">&copy; 2025 Copyright: <a class="text-white" target="_blank" href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt">ArdynFallSMP & KaiyWhiteSnow.</a></p>
